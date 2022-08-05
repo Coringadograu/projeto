@@ -1,0 +1,30 @@
+
+.cabecalho{
+    margin-block-end: auto;
+    background-color: rgb(150, 95, 95);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+font-size: 40px;
+padding: 20px;
+margin-bottom: 20px;
+margin-top: 1px;
+}
+
+.nave{
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 32px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 1px;
+
+
+
+
+
+}
